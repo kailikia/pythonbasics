@@ -23,3 +23,4 @@ print("Length is ",len(person))
 
 #Task: Try removing the location from list
 
+
